@@ -7,10 +7,10 @@
 ## Admin Functionalities
 #### Admin maintain books information in database
 
- ##### 1. Add Books to Inventory
- ##### 2. Edit Books in Inventory
- ##### 3. Delete Books in Inventory
- ##### 4. display entire inventory or display books in inventory by certain book title or book author or book genre
+###### 1. Add Books to Inventory
+###### 2. Edit Books in Inventory
+###### 3. Delete Books in Inventory
+###### 4. display entire inventory or display books in inventory by certain book title or book author or book genre
 
 ## User Functionalities
 #### User can search and purchase books
@@ -21,7 +21,7 @@
 ###### 4. List books in cart
 ###### 5. Checkout books added in cart
 
-#How to run or test project
+# How to run or test project
 
 ###### 1. Clone github repository
 ###### 2. Install visual studio code on your computer
