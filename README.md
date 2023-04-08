@@ -1,8 +1,8 @@
 # Online-Bookstore
-### Online Bookstore system is console application that allow users to purchase books online.
+#### Online Bookstore system is console application that allow users to purchase books online.
 
 # Project Description
-### It provide functionalities for user and admin
+#### It provide functionalities for user and admin
 
 ## Admin Functionalities
 #### Admin maintain books information in database
