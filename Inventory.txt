@@ -1,0 +1,11 @@
+I Feel Bad About My Neck,Nora Ephron,Humor,9.74,200
+Broken Glass,Alain Mabanckou,Fiction,9.97,120
+The Girl With the Dragon Tatto,Steig Larsson,Thriller,9.71,30
+Harry Potter and the Goblet of Fire,JK Rowling,Fiction,6.92,80
+A Little Life,Hanya Yanagihara,Novel,9.97,44
+Chronicles: Volume One,Bob Dylan,Biography,11.69,250
+Chronicles: Volume One,Bob Dylan,Non-Fiction,15.69,400
+The Tripping Point,Malcolm Gladwell,Fiction,14.1,300
+Darkmans,Nicola Barker,History,14.99,170
+The Seige,Helen Dunmore,Fiction,16.9,90
+
